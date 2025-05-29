@@ -1,13 +1,13 @@
 function Home() {
   return (
-    <div>
-      <h1 class="titulos">Introducción</h1><br></br><br></br>
-      <p> Trunks del Futuro (未み来らいのトランクス Mirai no Torankusu¿?) es un guerrero mestizo saiyano/terrícola, hijo de las contrapartes de Bulma y Vegeta, Bulma del Futuro y Vegeta del Futuro, así como alumno de Gohan del Futuro y aprendiz de Kaio-shin[24], quien, con ayuda de su Máquina del tiempo consigue viajar al tiempo de Son Goku proveniente de una línea de tiempo apocalíptica.
+    <div className="">
+
+      <h1 className="text-black">Introducción</h1>
+      <p className="mt-20 text-black"> Trunks del Futuro (未み来らいのトランクス Mirai no Torankusu¿?) es un guerrero mestizo saiyano/terrícola, hijo de las contrapartes de Bulma y Vegeta, Bulma del Futuro y Vegeta del Futuro, así como alumno de Gohan del Futuro y aprendiz de Kaio-shin[24], quien, con ayuda de su Máquina del tiempo consigue viajar al tiempo de Son Goku proveniente de una línea de tiempo apocalíptica.
           Como el único bastión de los Guerreros Z del futuro, es sin duda uno de los personajes más recurrentes en la historia de Dragon Ball, sea como un protagonista o como apoyo. Sus apariciones más memorables en la línea de tiempo del presente han sido para matar a Freeza, ayudar a Son Goku y sus amigos a luchar contra los Androides y Cell, y posteriormente enfrentarse junto a los Guerreros
           Z contra Goku Black y Zamas del Futuro en el Arco de Trunks del «Futuro».
       </p>
-          <br></br><br></br>
-      <h3>Apariencia</h3>
+      <h3 className="mt-20">Apariencia</h3>
       <p>Trunks del Futuro posee una estatura media, de cuerpo delgado y alargado, un poco más alto que su padre, Vegeta, de quien heredó sus rasgos faciales y tono de piel. Por otra parte, sus ojos azules y forma de cabello los adquirió de Bulma.
 
           En Dragon Ball Z (manga original y el anime) y los videojuegos, el cabello de Trunks es lila claro (parecido a Dr. Brief), pero su 

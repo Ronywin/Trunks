@@ -62,7 +62,7 @@ body {
 
 
 .div1 {
-    margin: 160px 0 80px 0;
+    margin: 160 0 80 0;
     grid-column: span 3 / span 3;
     background-image: url('https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1f33q1qdr442dsn1iss949uf111.png');
     background-attachment: fixed;
@@ -74,26 +74,7 @@ body {
     
 }
 
-.div3 {
-    grid-row-start: 2;
-    background-image: url('https://www.dragonballnoticias.com/wp-content/uploads/2017/11/32-2.png');
-    border-radius: 10px;
-    
-    
-}
 
-.divazo{
-  margin-top: 0px;
-  background-color: rgba(255, 255, 255, 0.568);
-  padding: 10px;
-  border-radius: 10px;
-  backdrop-filter: blur(3px);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
-  width: 100%;
-  height: 100%;
-  
- 
-}
 .titulos{
   font-weight: 700;
   font-size: 90px;
@@ -103,8 +84,6 @@ body {
 
 
 .fotoDerecha{
-  width: 85%;
-  height: 325px;
   justify-self: center;
   border-style:groove;
   margin: 0 0 50px 0;
@@ -128,7 +107,7 @@ body {
 p{
   font-size: 20px;
   font-weight: 500;
-  width: 850px;
+  
   justify-self: center;
   text-align: justify;
   color: black;

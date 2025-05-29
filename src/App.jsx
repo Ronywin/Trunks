@@ -36,10 +36,8 @@ function App(){
       </nav>
    <div class="parent">
     <div class="div1">  
-      <h1 class="trunkado">𝙏𝙧𝙪𝙣𝙠𝙨 𝘿𝙚𝙡 𝙁𝙪𝙩𝙪𝙧𝙤</h1>
-      <div className='fotoTrunkado'>
-        
-      </div>
+      <h1>𝙏𝙧𝙪𝙣𝙠𝙨 𝘿𝙚𝙡 𝙁𝙪𝙩𝙪𝙧𝙤</h1>
+      
     </div>
     <div class="div2">
       <img src="https://i.ibb.co/LdrQ1chz/tronk1.jpg" className='wikiTrunks' />
@@ -47,17 +45,14 @@ function App(){
         <img src="https://i.ibb.co/S7RB9N8F/tronk3.jpg" className='wikiTrunks' />
          <img src="https://i.ibb.co/5hKkLxqY/tronk4.jpg" className='wikiTrunks' />
     </div>
-    <div class="div3">
-      <nav className='divazo'>
-       
-        <br></br><br></br>
+    <div className="row-start-2 bg-[url(https://www.dragonballnoticias.com/wp-content/uploads/2017/11/32-2.png)] rounded-xl">
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/Galeria" element={<Galeria />} />
         </Routes>
-      </nav>
     </div>
     <div class="div4">
       <img src="https://wallpapers.com/images/hd/trunks-phone-a1nyr3t0g2bmdygx.jpg" class="fotoDerecha"/>

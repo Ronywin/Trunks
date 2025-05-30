@@ -36,7 +36,9 @@ function App(){
       </nav>
   <div className="parent">
   <div className="div1">
+    <div className="div1tr">
     <h1>𝙏𝙧𝙪𝙣𝙠𝙨 𝘿𝙚𝙡 𝙁𝙪𝙩𝙪𝙧𝙤</h1>
+  </div>
   </div>
   <div className="div2">
     <img src="https://i.ibb.co/LdrQ1chz/tronk1.jpg" className="wikiTrunks" />

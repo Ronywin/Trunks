@@ -42,6 +42,7 @@
 }
 
 
+
 #root {
   width: 100%;
   max-width: 1300px;
@@ -51,6 +52,8 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   background-image: url(https://i.pinimg.com/736x/9d/58/a2/9d58a2ae9b423208848d02dc81df99a4.jpg);
   background-attachment: fixed;
 }
@@ -61,23 +64,29 @@ body {
     grid-template-rows: auto 1fr; /* La primera fila se ajusta al contenido */
     gap: 8px; /* O usa un valor pequeño como 5px si quieres un poco de espacio */
     background-color: rgba(114, 112, 101, 0.589);
+    margin-top: 4%;
 }
 
 
-
+.div1, .div2, .div4 {
+  width: 100%;
+  box-sizing: border-box;
+}
 
 
 .div1 {
-    margin: 160 0 80 0;
+    text-align: center;
+    margin: 5% 0 8% 0;
     grid-column: span 3 / span 3;
     background-image: url('https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1f33q1qdr442dsn1iss949uf111.png');
     background-attachment: fixed;
-    border-radius: 30px;
     backdrop-filter: blur(1px);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-    border: 4px solid rgb(122, 1, 70);
+    border: 3px solid  rgb(122, 1, 70);
     
-    
+}
+.div1tr{
+  background-color: rgba(0, 0, 0, 0.39);
 }
 
 

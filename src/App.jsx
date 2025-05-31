@@ -47,7 +47,7 @@ function App(){
     <img src="https://i.ibb.co/5hKkLxqY/tronk4.jpg" className="wikiTrunks" />
     <img src="wiki.jpg" alt="Wiki Trunks" className="wikiTrunks" />
   </div>
-  <div className="row-start-2 bg-[url(https://www.dragonballnoticias.com/wp-content/uploads/2017/11/32-2.png)] rounded-xl bg-center">
+  <div className="divazo">
     <div className="translucido">
       <Routes>
         <Route path="/" element={<Home />} />
@@ -57,14 +57,8 @@ function App(){
       </Routes>
     </div>
   </div>
-  <div className="div4">
-    <img src="https://wallpapers.com/images/hd/trunks-phone-a1nyr3t0g2bmdygx.jpg" className="fotoDerecha"/>
-    <img src="https://i.pinimg.com/474x/be/88/ff/be88ff4f0b64e09ac5fb6e9bb89560a6.jpg" className="fotoDerecha"/>
-    <img src="https://wallpapers.com/images/hd/trunks-phone-52to3dsm2nyy1gh2.jpg" className="fotoDerecha"/>
-    <img src="https://w0.peakpx.com/wallpaper/1023/27/HD-wallpaper-trunks-dragon-dragons-future-trunks-girl-lol-purple-skull-skulls-tiger-vikings.jpg" className="fotoDerecha"/>
-    <img src="https://i.pinimg.com/736x/a8/b9/86/a8b98681059284229e32c961c0328781.jpg" className="fotoDerecha"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMiN6WAZgUYKogDLjKWOQDvBOgGjyWCOlpbFJ0_wwBHkerbKWriGWfYkGmMv8qKWL34g&usqp=CAU" className="fotoDerecha"/>
-  </div>
+  
+  
 </div>
 
 
@@ -78,6 +72,13 @@ function App(){
 }
    
     
- 
+ /*<div className="div4">
+    <img src="https://wallpapers.com/images/hd/trunks-phone-a1nyr3t0g2bmdygx.jpg" className="fotoDerecha"/>
+    <img src="https://i.pinimg.com/474x/be/88/ff/be88ff4f0b64e09ac5fb6e9bb89560a6.jpg" className="fotoDerecha"/>
+    <img src="https://wallpapers.com/images/hd/trunks-phone-52to3dsm2nyy1gh2.jpg" className="fotoDerecha"/>
+    <img src="https://w0.peakpx.com/wallpaper/1023/27/HD-wallpaper-trunks-dragon-dragons-future-trunks-girl-lol-purple-skull-skulls-tiger-vikings.jpg" className="fotoDerecha"/>
+    <img src="https://i.pinimg.com/736x/a8/b9/86/a8b98681059284229e32c961c0328781.jpg" className="fotoDerecha"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMiN6WAZgUYKogDLjKWOQDvBOgGjyWCOlpbFJ0_wwBHkerbKWriGWfYkGmMv8qKWL34g&usqp=CAU" className="fotoDerecha"/>
+  </div>*/
 
 export default App

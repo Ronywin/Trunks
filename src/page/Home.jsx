@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <div className="">
+    <div>
 
       <h1 className="titulos">Introducción</h1>
       <p> Trunks del Futuro (未み来らいのトランクス Mirai no Torankusu¿?) es un guerrero mestizo saiyano/terrícola, hijo de las contrapartes de Bulma y Vegeta, Bulma del Futuro y Vegeta del Futuro, así como alumno de Gohan del Futuro y aprendiz de Kaio-shin[24], quien, con ayuda de su Máquina del tiempo consigue viajar al tiempo de Son Goku proveniente de una línea de tiempo apocalíptica.
